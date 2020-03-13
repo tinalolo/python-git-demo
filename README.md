@@ -1,8 +1,1 @@
-"# demo-github" 
-"# github-setting0312" 
-"# github-setting0312" 
-"# python-git-demo" 
-"# demo-github" 
-"# python-git-demo" 
-"# python-git-demo" 
-"# python-git-demo" 
+# 我是說明文件
